@@ -1,0 +1,13 @@
+.pokedex {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	height: 100%;
+	flex-direction: row;
+
+}
+
+PokemonCard {
+	margin: 1rem;
+
+}
