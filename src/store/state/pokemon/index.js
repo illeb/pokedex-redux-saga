@@ -18,5 +18,6 @@ const pokemonSlice = createSlice({
 }) 
 
 export const {getPokemons, getPokemonsSuccess, getPokemonsFailure} = pokemonSlice.actions;
+// export const pokemonActions = pokemonSlice.actions;
 
 export default pokemonSlice.reducer;
